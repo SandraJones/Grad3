@@ -2,7 +2,7 @@ h1 {
   font-size: 50px;
   font-weight: 600;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 60px;
 }
 h2 {
   font-size: 30px;
@@ -148,4 +148,7 @@ a {
 }
 header {
   background-color: grey;
+}
+.storySection {
+  padding-top: 150px;
 }
